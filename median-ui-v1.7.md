@@ -1,5 +1,6 @@
 - Median Ui Version 1.7 XMl Code
-
+- Download Link: https://www.mrskt.com/median-ui-blogger-theme
+- Tags: Median Ui, Median Ui v1.7, Median AMP, Median LTR, Median RTL.
 ```
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html>
